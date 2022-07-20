@@ -8,7 +8,7 @@ I'm a machine learning enthusiasts who enjoys participating in data science comp
 
 - \[[Simple Maths Expression Solver](https://github.com/Joseph31416/Simple-Maths-Expression-Solver)\] A web application that takes in a photo of a simple handwritten mathematical expression and evaluates the numeric answer. The neural network uses CNN layers and has an architecture that is inspired from the VGG-16 architecture.
 - \[[Address Extraction](https://drive.google.com/drive/folders/1Ek7UeljG5Ps92QmEy3np4qY6nlDPLomd?usp=sharing)\] A neural network is built using the BERT model to extract street names and point of interests from a dataset containing messy Indonesian addresses. 
-- \[[Stock Prices Analysis]()\] By engineering features from historical data, a neural network is built to predict the short-term trend of a particular stock. (Work in progress)
+- \[[Stock Prices Analysis](https://github.com/Joseph31416/Joseph31416)\] By engineering features from historical data, a neural network is built to predict the short-term trend of a particular stock. (Work in progress)
 
 ### 🌱 Web Applications
 
