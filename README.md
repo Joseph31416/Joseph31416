@@ -6,7 +6,7 @@ I'm a machine learning enthusiasts who enjoys applying machine learning techniqu
 
 ### 👷 Machine Learning Projects
 
-- [Joseph31416/Simple-Maths-Expression-Solver] A web application that takes in a photo of a simple handwritten mathematical expression and evaluates the numeric answer.
+- [Joseph31416/Simple-Maths-Expression-Solver](https://github.com/Joseph31416/Simple-Maths-Expression-Solver) A web application that takes in a photo of a simple handwritten mathematical expression and evaluates the numeric answer.
 
 ### 🌱 Web Applications
 
