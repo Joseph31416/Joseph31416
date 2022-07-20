@@ -1,16 +1,18 @@
-### Hi there 👋
+### Joseph Teoh
 
-<!--
-**Joseph31416/Joseph31416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> /'Joseph31416/
 
-Here are some ideas to get you started:
+I'm a machine learning enthusiasts who enjoys applying machine learning techniques to the problems that I come across. I'm also a web developer who enjoys building web applications to help my community. I'm currently an undergraduate at the National University of Singapore, completing a double degree programme in mathematics and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👷 Machine Learning Projects
+
+- 
+
+### 🌱 Web Applications
+
+- 
+
+
+### 📫 How to reach me:
+
+- Email: [teoh.tze.tzun@gmail.com](mailto:teoh.tze.tzun@gmail.com)
