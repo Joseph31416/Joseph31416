@@ -1,6 +1,6 @@
 ### Joseph Teoh
 
-> `Codes are a puzzle. A game, just like any other game. - Alan Turing
+> /`Codes are a puzzle. A game, just like any other game. - Alan Turing/
 
 I'm a machine learning enthusiasts who enjoys participating in data science competitions and using machine learning techniques to solve interesting problems. I'm also a Web Developer who enjoys building web applications to help my community. I'm currently an undergraduate at the National University of Singapore, completing a Double Degree Programme in Mathematics and Computer Science.
 
