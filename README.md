@@ -23,3 +23,4 @@ I'm a machine learning enthusiasts who enjoys participating in data science comp
 ### 📫 How to reach me:
 
 - Email: [teoh.tze.tzun@gmail.com](mailto:teoh.tze.tzun@gmail.com)
+- LinkedIn: [Tze Tzun Teoh](https://www.linkedin.com/in/teohtzetzun/)
