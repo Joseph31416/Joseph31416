@@ -1,4 +1,4 @@
-### Joseph Teoh
+### Teoh Tze Tzun (Joseph)
 
 > `/Codes are a puzzle. A game, just like any other game. - Alan Turing/`
 
