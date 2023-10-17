@@ -11,7 +11,7 @@ I'm an AI enthusiasts who enjoys participating in data science competitions and 
 
 - \[[Simple Maths Expression Solver](https://github.com/Joseph31416/Simple-Maths-Expression-Solver)\] A web application that takes in a photo of a simple handwritten mathematical expression and evaluates the numeric answer. The neural network uses CNN layers and has an architecture that is inspired from the VGG-16 architecture.
 - \[[Address Extraction](https://drive.google.com/drive/folders/1Ek7UeljG5Ps92QmEy3np4qY6nlDPLomd?usp=sharing)\] A neural network is built using the BERT model to extract street names and point of interests from a dataset containing messy Indonesian addresses. 
-- \[[Stock Prices Analysis](https://colab.research.google.com/drive/1eZI0l0puiIKqynxwCmcWdHGeojQPgYG5?usp=sharing)\] By engineering features from historical data, a neural network using 1D-CNN and LSTM layers is built to predict the short-term trend of a particular stock. 
+- \[[Stock Prices Analysis](https://colab.research.google.com/drive/1eZI0l0puiIKqynxwCmcWdHGeojQPgYG5?usp=sharing)\] By engineering features from historical data, a neural network using 1D-CNN and LSTM layers is built to predict the short-term trend of a particular stock's price. 
 
 ### 🕸 Web Applications
 
