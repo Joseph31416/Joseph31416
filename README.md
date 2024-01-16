@@ -2,7 +2,7 @@
 
 > `/Codes are a puzzle. A game, just like any other game. - Alan Turing/`
 
-I'm an AI enthusiasts who enjoys participating in data science competitions and using machine learning and deep learning techniques to solve interesting problems. I'm also a Web Developer who enjoys building web applications to help my community. I'm currently an undergraduate at the National University of Singapore, completing a Double Degree Programme in Mathematics and Computer Science.
+I'm an AI enthusiasts who enjoys participating in data science competitions and using machine learning and deep learning techniques to solve interesting problems. I'm also a developer who enjoys building applications to help my community. I'm currently an undergraduate at the National University of Singapore, pursuing a Double Degree in Mathematics and Computer Science. My current research interest is in copyright protection in the field of generative AI.
 
 ### 📚 Research Projects
 - \[[Investigating Copyright Issues of Diffusion Models under Practical Scenarios](https://arxiv.org/abs/2311.12803)\] An automated pipeline is built to create a dataset that tests for copyright infringement issues within the latest Stable Diffusion models, including Stable Diffusion XL. We published our results to show that even the most cutting-edge Stable Diffusion model suffers from the problem of generating copyrighted content.
