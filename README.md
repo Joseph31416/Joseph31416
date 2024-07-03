@@ -2,7 +2,7 @@
 
 > `/Codes are a puzzle. A game, just like any other game. - Alan Turing/`
 
-I'm an AI enthusiasts who enjoys participating in data science competitions and using machine learning and deep learning techniques to solve interesting problems. I'm also a developer who enjoys building applications to help my community. I'm currently an undergraduate at the National University of Singapore, pursuing a Double Degree in Mathematics and Computer Science. My current research interest is in copyright protection in the field of generative AI.
+I'm an AI enthusiasts who enjoys participating in data science competitions and using machine learning techniques to solve interesting problems. I'm also a developer who enjoys building applications to help my community. I'm currently an undergraduate at the National University of Singapore, pursuing a Double Degree in Mathematics and Computer Science. My current research interest is in copyright protection in the field of generative AI.
 
 I'm currently an intern at [OptioAI](https://optioai.tech/), working on creating AI solutions powered by locally hosted large language models, alongside smaller neural networks and classical models.
 
