@@ -4,7 +4,9 @@
 
 I'm an AI enthusiasts who enjoys participating in data science competitions and using machine learning and deep learning techniques to solve interesting problems. I'm also a developer who enjoys building applications to help my community. I'm currently an undergraduate at the National University of Singapore, pursuing a Double Degree in Mathematics and Computer Science. My current research interest is in copyright protection in the field of generative AI.
 
-### 📚 Research Projects
+I'm currently an intern at [OptioAI](https://optioai.tech/), working on creating AI solutions powered by locally hosted large language models, alongside smaller neural networks and classical models.
+
+### 📚 Research Publications
 
 - \[[Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models](https://arxiv.org/abs/2403.06381)\] Recent advancements in diffusion models have notably improved the perceptual quality of generated images in text-to-image synthesis tasks. However, diffusion models often struggle to produce images that accurately reflect the intended semantics of the associated text prompts. We examine cross-attention layers in diffusion models and observe a propensity for these layers to disproportionately focus on certain tokens during the generation process, thereby undermining semantic fidelity. To address the issue of dominant attention, we introduce attention regulation, a computation-efficient on-the-fly optimization approach at inference time to align attention maps with the input text prompt. Notably, our method requires no additional training or fine-tuning and serves as a plug-in module on a model. Hence, the generation capacity of the original model is fully preserved. We compare our approach with alternative approaches across various datasets, evaluation metrics, and diffusion models. Experiment results show that our method consistently outperforms other baselines, yielding images that more faithfully reflect the desired concepts with reduced computation overhead. Code is available [here](https://github.com/YaNgZhAnG-V5/attention_regulation).
 
